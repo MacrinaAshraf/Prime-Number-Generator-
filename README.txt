@@ -1,0 +1,1 @@
+This program generates all the prime numbers from a number you entered using threads.
